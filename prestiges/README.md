@@ -19,7 +19,7 @@ All prestiges are linked to ScIds:
 ### brawlers
 Prestige icons combined with brawler icons (up to Prestige 10).
 
-### numeral
+### tiered
 Prestige icons with numbers (up to Prestige 10).
 
 ### regular
